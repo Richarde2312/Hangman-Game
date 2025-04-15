@@ -14,7 +14,3 @@ Open the `Hangman.cpp` file in your chosen IDE.
 
 ### 3. Run the Game
 Compile and run the program — then sit back and enjoy playing Hangman!
-
----
-
-Have fun coding and guessing! 😄
